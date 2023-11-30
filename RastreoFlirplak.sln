@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreoFirplak.Infrastructure", "RastreoFirplak.Data\RastreoFirplak.Infrastructure.csproj", "{741BC8E0-958D-4534-883D-7B55CE4AEE8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreoFirplak.Domain", "RastreoFirplak.Domain\RastreoFirplak.Domain.csproj", "{C36902AD-1DE9-4DC2-B7CB-224C2908F962}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DE4FA1B8-B484-4136-97CE-267C327F9308}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{BFFB9FB7-50FF-4581-8305-AF9D0450EB9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FF43C924-40DC-46BC-BC3A-144F6325885B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{E30BB302-DD30-4180-A3B4-0E4C65489C79}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{E293060E-48F6-4F20-887E-E30B5ADB093A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{A67F5280-68AE-4C38-A57A-E0533F069342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreoFirplak.Api", "RastreoFirplak.Api\RastreoFirplak.Api.csproj", "{8A90AB8C-D1DA-4823-8E6B-DAE12A715E28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RastreoFirplak.Application", "RastreoFirplak.Application\RastreoFirplak.Application.csproj", "{560E64C9-6FFC-4CB2-8528-7D7AD82C073A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{741BC8E0-958D-4534-883D-7B55CE4AEE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{741BC8E0-958D-4534-883D-7B55CE4AEE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{741BC8E0-958D-4534-883D-7B55CE4AEE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{741BC8E0-958D-4534-883D-7B55CE4AEE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36902AD-1DE9-4DC2-B7CB-224C2908F962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36902AD-1DE9-4DC2-B7CB-224C2908F962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36902AD-1DE9-4DC2-B7CB-224C2908F962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36902AD-1DE9-4DC2-B7CB-224C2908F962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A90AB8C-D1DA-4823-8E6B-DAE12A715E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A90AB8C-D1DA-4823-8E6B-DAE12A715E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A90AB8C-D1DA-4823-8E6B-DAE12A715E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A90AB8C-D1DA-4823-8E6B-DAE12A715E28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560E64C9-6FFC-4CB2-8528-7D7AD82C073A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560E64C9-6FFC-4CB2-8528-7D7AD82C073A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560E64C9-6FFC-4CB2-8528-7D7AD82C073A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560E64C9-6FFC-4CB2-8528-7D7AD82C073A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{741BC8E0-958D-4534-883D-7B55CE4AEE8D} = {A67F5280-68AE-4C38-A57A-E0533F069342}
+		{C36902AD-1DE9-4DC2-B7CB-224C2908F962} = {E293060E-48F6-4F20-887E-E30B5ADB093A}
+		{E30BB302-DD30-4180-A3B4-0E4C65489C79} = {DE4FA1B8-B484-4136-97CE-267C327F9308}
+		{E293060E-48F6-4F20-887E-E30B5ADB093A} = {DE4FA1B8-B484-4136-97CE-267C327F9308}
+		{A67F5280-68AE-4C38-A57A-E0533F069342} = {E293060E-48F6-4F20-887E-E30B5ADB093A}
+		{8A90AB8C-D1DA-4823-8E6B-DAE12A715E28} = {E30BB302-DD30-4180-A3B4-0E4C65489C79}
+		{560E64C9-6FFC-4CB2-8528-7D7AD82C073A} = {E293060E-48F6-4F20-887E-E30B5ADB093A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5736D629-CE51-420B-986D-E8576445698E}
+	EndGlobalSection
+EndGlobal

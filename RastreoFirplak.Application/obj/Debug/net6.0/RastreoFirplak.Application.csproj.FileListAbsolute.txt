@@ -1,0 +1,45 @@
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.deps.json
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.AssemblyReference.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.AssemblyInfoInputs.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.AssemblyInfo.cs
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.CopyComplete
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\refint\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Application\obj\Debug\net6.0\ref\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.deps.json
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.AssemblyReference.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.AssemblyInfoInputs.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.AssemblyInfo.cs
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.CopyComplete
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\refint\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\ref\RastreoFirplak.Application.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.deps.json
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.AssemblyInfo.cs
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.csproj.CopyComplete
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\refint\RastreoFirplak.Application.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Application\obj\Debug\net6.0\ref\RastreoFirplak.Application.dll

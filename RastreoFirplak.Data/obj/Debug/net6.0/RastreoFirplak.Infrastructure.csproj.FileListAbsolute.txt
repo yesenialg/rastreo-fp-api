@@ -1,0 +1,57 @@
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.deps.json
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.runtimeconfig.json
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.AssemblyReference.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.AssemblyInfo.cs
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.CopyComplete
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\refint\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.genruntimeconfig.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\ref\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.deps.json
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.runtimeconfig.json
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.AssemblyReference.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.AssemblyInfo.cs
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.CopyComplete
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\refint\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.pdb
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.genruntimeconfig.cache
+C:\Proyectos\Prueba técnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\ref\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.deps.json
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.runtimeconfig.json
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Infrastructure.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Application.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Application.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.AssemblyInfo.cs
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.csproj.CopyComplete
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\refint\RastreoFirplak.Infrastructure.dll
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.pdb
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Infrastructure.genruntimeconfig.cache
+C:\Proyectos\PruebaTecnicaFirplak\FirplakPruebaTecnica\rastreo-fp-api\RastreoFirplak.Data\obj\Debug\net6.0\ref\RastreoFirplak.Infrastructure.dll

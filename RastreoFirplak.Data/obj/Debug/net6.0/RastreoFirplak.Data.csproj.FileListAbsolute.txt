@@ -1,0 +1,17 @@
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Data.deps.json
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Data.runtimeconfig.json
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Data.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Data.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\bin\Debug\net6.0\RastreoFirplak.Domain.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.csproj.AssemblyReference.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.AssemblyInfoInputs.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.AssemblyInfo.cs
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.csproj.CoreCompileInputs.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.csproj.CopyComplete
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\refint\RastreoFirplak.Data.dll
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.pdb
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\RastreoFirplak.Data.genruntimeconfig.cache
+C:\Proyectos\Prueba técnica\RastreoFirplak\RastreoFirplak.Data\obj\Debug\net6.0\ref\RastreoFirplak.Data.dll
